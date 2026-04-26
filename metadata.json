@@ -1,6 +1,6 @@
 {
-  "name": "VTU TechFest 2025 — InnovatX",
-  "description": "Official website for the VTU CSE Department TechFest 2025, featuring event schedules, department highlights, and a robust ticket booking system.",
+  "name": "CampusPulse",
+  "description": "A smart campus event management system for students and admins to discover, register, and manage campus events with AI-powered insights.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
